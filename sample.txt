@@ -1,3 +1,2 @@
-This is a sample
-!!!!!!!!!!!!!!!!!!!!!!1
-this is lab 9
+This is lab externals
+lab externals
